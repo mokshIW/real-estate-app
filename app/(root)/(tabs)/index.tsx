@@ -10,7 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="text-xl text-blue-500 font-bold my-10">
+      <Text className="text-3xl font-rubik text-blue-500 font-bold my-10">
         Welcome To ReState!
       </Text>
 
