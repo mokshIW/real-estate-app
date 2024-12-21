@@ -14,10 +14,8 @@ export default function Index() {
         Welcome To ReState!
       </Text>
 
+      {/* TimeStamp 1:22:48 - Profile Screen */}
       <Link href="/sign-in">Sign In</Link>
-      <Link href="/explore">Exlore</Link>
-      <Link href="/profile">Profile</Link>
-      <Link href="/properties/1">Property</Link>
     </View>
   );
 }
